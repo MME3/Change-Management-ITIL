@@ -10,5 +10,5 @@ Change Management basic:
 1. Step: Request for Change (Spin doctor)
 2. Step: Complete and connect the RFC with other RFC´s (Change-Manager)
 3. Step: Evaluating the RFC, Accept, Reject... (Evaluation Role)
-4a. Step: If accepted -> construct a project and pass it to employee, closing the RFC, feedback to Spin doctor
-4b. Step: If rejected -> closing the RFC, feedback to Spin doctor
+4.a Step: If accepted -> construct a project and pass it to employee, closing the RFC, feedback to Spin doctor
+4.b Step: If rejected -> closing the RFC, feedback to Spin doctor
