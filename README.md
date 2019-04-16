@@ -1,9 +1,9 @@
 # Change-Management-ITIL
 
-Description: In dependence of ITIL forming a Change Management Process for Activiti/Alfresco. Therefor I have a table with steps and specifications. The aim is, to get that productive in Activiti 6/ Alfresco 6.   
+Description: In dependence of ITIL forming a Change Management Process for Activiti/Alfresco. Therefor I wrote a table with steps and specifications as a draft. The aim is, to get that productive in Activiti 6/ Alfresco 6.   
 Ressources about ITIL: https://wiki.en.it-processmaps.com/index.php/Main_Page
 
-Change-Management is a process to get changes in a structured way implemented in organizations. There are different ways for doing that and here, in dependency to the Alfresco Hackathon 2019 10th May https://community.alfresco.com/docs/DOC-8142-global-virtual-hack-a-thon-spring-2019, shall be the location for having the material.
+Change-Management is a process to get changes in a structured way implemented in organizations. There are different ways for doing that and here, in dependency to the Alfresco Hackathon 2019 10th May https://community.alfresco.com/docs/DOC-8142-global-virtual-hack-a-thon-spring-2019, shall be the location for having the material for a simple process.
 
 Change Management basic:
 
